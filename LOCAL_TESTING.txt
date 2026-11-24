@@ -1,0 +1,19 @@
+KAY’AZ FURNITURE SHOWROOM — LOCAL TEST
+
+1. Extract the ZIP into a folder.
+2. Open Command Prompt in the folder containing package.json.
+3. Run: npm install
+4. Run: npm run dev
+5. Open the Local URL printed by Vite (normally http://localhost:5173).
+
+For production compilation run: npm run build
+
+CLOUDFLARE PAGES
+- Framework preset: Vite
+- Build command: npm run build
+- Build output directory: dist
+- Root directory: project root
+- Node: 18+
+
+CONTENT STATUS
+This is a prospect demonstration. The 3D furniture models are generic procedural concepts and are not verified Kay’az products. Replace them and the concept gallery with Kay’az-approved product images, models, prices and specifications before public launch.
